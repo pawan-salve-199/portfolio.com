@@ -398,6 +398,9 @@ section .title::after{
 .skills-content .right .warehousing::before{
     width: 85%;
 }
+.skills-content .right .iics::before{
+    width: 85%;
+}
 
 /* teams section styling */
 .teams .title::after{
